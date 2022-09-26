@@ -1,0 +1,5 @@
+server:
+  port: 8761
+logging:
+  level:
+    blog.panditmandar.scdemo.infra.eurekaserver: INFO
