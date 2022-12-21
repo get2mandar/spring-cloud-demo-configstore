@@ -27,3 +27,11 @@ spring:
         trace: false
 logging:
   file: logs\book-data-service.log
+management:
+    endpoints:
+        web:
+            exposure:
+                include: *
+    endpoint:
+        health:
+            show-details: always

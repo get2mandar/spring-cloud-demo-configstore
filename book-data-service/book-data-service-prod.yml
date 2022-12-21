@@ -7,3 +7,8 @@ eureka:
 logging:
   level:
     blog.panditmandar.scdemo.bookdata: INFO
+spring:
+    boot:
+        admin:
+            client:
+                url: '[http://localhost:8761]'
