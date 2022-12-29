@@ -12,6 +12,3 @@ spring:
       client:
         instance:
           management-base-url: http://localhost:${server.port}
-        url: http://localhost:9090
-        username: admin
-        password: admin
