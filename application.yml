@@ -12,3 +12,6 @@ spring:
       client:
         instance:
           management-base-url: http://localhost:${server.port}
+root:
+  log:
+    path: ${SCDEMO_ROOT_LOGPATH}
