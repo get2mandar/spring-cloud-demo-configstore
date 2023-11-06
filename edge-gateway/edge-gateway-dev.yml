@@ -2,4 +2,4 @@ server:
   port: 9050
 logging:
   level:
-    blog.panditmandar.scdemo.edge.gateway: DEBUG
+    com.wp.panditmandar.scdemo.edge.gateway: DEBUG

@@ -2,4 +2,4 @@ server:
   port: 8250
 logging:
   level:
-    blog.panditmandar.scdemo.edge.gateway: INFO
+    com.wp.panditmandar.scdemo.edge.gateway: INFO

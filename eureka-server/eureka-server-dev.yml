@@ -2,4 +2,4 @@ server:
   port: 9761
 logging:
   level:
-    blog.panditmandar.scdemo.infra.eurekaserver: DEBUG
+    com.wp.panditmandar.scdemo.eurekaserver: DEBUG

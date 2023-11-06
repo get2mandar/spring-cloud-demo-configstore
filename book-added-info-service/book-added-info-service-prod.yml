@@ -1,3 +1,3 @@
 logging:
   level:
-    blog.panditmandar.scdemo.bookinfo: INFO
+    com.wp.panditmandar.scdemo.bookinfo: INFO
